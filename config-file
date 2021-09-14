@@ -1,0 +1,6 @@
+listen = http://0.0.0.0:7777
+
+logFile = /dev/stderr
+
+userPasswd = user:pass
+
